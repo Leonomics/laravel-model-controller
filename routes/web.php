@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'PageController@index')->name('welcome');
+Route::get('/', 'PageController@index')->name('home');
